@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1ItIqU_NML-EaI69PTjDXyhSKoTNjBWDS
   <source src="/Gameplay/Gameplay.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-<img src="/Gameplay/Screenshot1.ppg">
+<img src="/Gameplay/Screenshot1.png">
 <img src="/Gameplay/Screenshot2.png">
 <img src="/Gameplay/Screenshot3.png">
 <br>
