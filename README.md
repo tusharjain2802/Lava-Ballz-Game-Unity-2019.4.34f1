@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1ItIqU_NML-EaI69PTjDXyhSKoTNjBWDS
 <br>
 <br>
 <video autoplay muted>
-  <source src="/Gameplay/gameplay.mp4" type="video/mp4">
+  <source src="/Gameplay/Gameplay.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <img src="/Gameplay/Screenshot1.jpg">
