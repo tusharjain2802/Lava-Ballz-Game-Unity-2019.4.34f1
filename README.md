@@ -5,7 +5,7 @@ Gaming & Animation ELC by <b>Computer Science & Engineering Department, Thapar I
 https://drive.google.com/drive/folders/1ItIqU_NML-EaI69PTjDXyhSKoTNjBWDS
 <br>
 <br>
-<video autoplay muted>
+  <video width="640" height="480" controls autoplay>
   <source src="/Gameplay/Gameplay.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
