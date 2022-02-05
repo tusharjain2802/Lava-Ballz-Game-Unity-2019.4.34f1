@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1ItIqU_NML-EaI69PTjDXyhSKoTNjBWDS
 <br>
 <br>
 
-[![Watch the video](https://imgur.com/a/IMfTfTJ)](https://youtu.be/8LFcDn1l1CM)
+[![Watch the video](https://i.imgur.com/kHsEqq7.png)](https://youtu.be/8LFcDn1l1CM)
 
 
 <img src="/Gameplay/Screenshot1.png">
