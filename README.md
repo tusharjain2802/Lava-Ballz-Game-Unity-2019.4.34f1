@@ -4,9 +4,13 @@ Gaming & Animation ELC by <b>Computer Science & Engineering Department, Thapar I
 <br><br>Here's the link for you to watch the sessions as well<br>
 https://drive.google.com/drive/folders/1ItIqU_NML-EaI69PTjDXyhSKoTNjBWDS
 <br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8LFcDn1l1CM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/8LFcDn1l1CM" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://youtu.be/8LFcDn1l1CM"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 <br> 
 
 
