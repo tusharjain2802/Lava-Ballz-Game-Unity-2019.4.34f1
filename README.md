@@ -1,11 +1,6 @@
 # Lava-Ballz-Unity-2019.4.34f1
 Gaming & Animation ELC by <b>Computer Science & Engineering Department, Thapar Institute of Engineering & Technology (TIET)</b>.
 
-<br><br>Here's the link for you to watch the sessions as well: 
-https://drive.google.com/drive/folders/1ItIqU_NML-EaI69PTjDXyhSKoTNjBWDS
-<br>
-
-
 [![Watch the video](https://i.imgur.com/kHsEqq7.png)](https://youtu.be/8LFcDn1l1CM)
 
 
